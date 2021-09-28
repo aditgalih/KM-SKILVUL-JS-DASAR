@@ -41,5 +41,5 @@ switch (unit) {
     console.log(temperature);
     break;
   default:
-    console.log(Maaf anda salah input");
+    console.log("Maaf anda salah input");
 }
